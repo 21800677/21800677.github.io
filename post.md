@@ -12,7 +12,7 @@
 
     - Blog
 
-  last_modified_at: 2019-04-13T08:06:00-05:00
+  last_modified_at: {{ page.last_modified_at }}
 
 ---
 
