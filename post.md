@@ -25,3 +25,6 @@
   이 글의 제목은 {{ page.title }}이고
 
   마지막 수정 시간은 {{ page.last_modified_at }}이다.
+  
+  categories {{page.categories}}   
+  tags {{page.tags}}
