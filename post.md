@@ -12,7 +12,7 @@
 
     - Blog
 
-  last_modified_at: {{ page.last_modified_at }}
+  last_modified_at: 2022 05 02 01:38
 
 ---
 
